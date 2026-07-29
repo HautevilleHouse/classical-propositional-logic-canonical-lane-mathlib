@@ -1,0 +1,2 @@
+import ClassicalPropositionalLogicCanonicalLaneLean.GateLemmas
+import ClassicalPropositionalLogicCanonicalLaneLean.FinalTheorem
